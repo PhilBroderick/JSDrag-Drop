@@ -1,3 +1,11 @@
-#myUl {
+#myDiv1 {
     border: 2px solid red;
 }
+
+#myDiv2 {
+    border: 2px solid black;
+}
+
+.grid-stack-item[data-gs-width="2"] {width: 100%}
+.grid-stack-item[data-gs-width="1"] {width: 50%}
+.grid-stack-item[data-gs-x="1"] {left: 50%}
